@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>McGhost.Core</RootNamespace>
+    <AssemblyName>McGhost.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
